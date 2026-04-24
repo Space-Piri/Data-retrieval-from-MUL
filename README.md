@@ -1,0 +1,2 @@
+# Экспорт мехов из MUL для таблицы: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Data_retrieval_from_MUL.ipynb)
+# Экспорт карточек на печать: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Cards_retrieval_from_MUL.ipynb)

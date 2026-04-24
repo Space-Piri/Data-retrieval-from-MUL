@@ -1,4 +1,4 @@
 # This repository is designed to streamline the process of gathering Mech data from the MUL for Alpha Strike. (http://masterunitlist.info/)
-# Exporting Mechs from MUL to spreadsheet: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Data_retrieval_from_MUL.ipynb)
-# Exporting players Mech cards for printing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Cards_retrieval_from_MUL.ipynb)
+ Exporting Mechs from MUL to spreadsheet: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Data_retrieval_from_MUL.ipynb)
+ Exporting players Mech cards for printing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Space-Piri/Data-retrieval-from-MUL/blob/master/Cards_retrieval_from_MUL.ipynb)
 # Mechs XLSL spreadsheet file designed for Google Sheets
